@@ -1,0 +1,6 @@
+{
+  "name": "RuralRx Clinical Decision Support",
+  "description": "Offline-first clinical prescription decision support and pediatric/adult triage tool for rural primary healthcare clinics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
